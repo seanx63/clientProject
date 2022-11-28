@@ -1,0 +1,6 @@
+[submodule "clientProjectBackend"]
+	path = clientProjectBackend
+	url = https://github.com/seanx63/clientProjectBackend
+[submodule "clientProjectFrontend"]
+	path = clientProjectFrontend
+	url = https://github.com/seanx63/clientProjectFrontend
